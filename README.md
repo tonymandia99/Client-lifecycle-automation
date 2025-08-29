@@ -45,7 +45,7 @@ By integrating **Asana, Google Drive, and Email/SMS automation (Zapier/Make)**, 
   * Benefit: Drives upsells, boosts retention, strengthens client relationships.
 
 📷 **Workflow Image (1,4,5):**
-![Project Lifecycle Automation (1,4,5)](ZAPIER PROJECT 1 4 5.png)
+![Project Lifecycle Automation (1,4,5)](assets/ZAPIER%20PROJECT%201%204%205.png)  
 
 ---
 
@@ -58,7 +58,7 @@ By integrating **Asana, Google Drive, and Email/SMS automation (Zapier/Make)**, 
 * **Benefit:** Prevents lost opportunities and keeps the pipeline active.
 
 📷 **Workflow Image (2):**
-![Unresponsive Lead Follow-Up](2 Follow-Up Automation for Unresponsive Lead.png)
+![Unresponsive Lead Follow-Up](assets/2%20Follow-Up%20Automation%20for%20Unresponsive%20Lead.png)  
 
 ---
 
@@ -71,7 +71,7 @@ By integrating **Asana, Google Drive, and Email/SMS automation (Zapier/Make)**, 
 * **Benefit:** Increases close rate, keeps company top-of-mind.
 
 📷 **Workflow Image (3):**
-![Quote Follow-Up Automation](3. Quote Follow-Up Automation.png)
+![Quote Follow-Up Automation](assets/3.%20Quote%20Follow-Up%20Automation.png)  
 
 ---
 
