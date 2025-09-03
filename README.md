@@ -1,6 +1,6 @@
 
 
-# Client Lifecycle Automation
+# Client Lifecycle Automation using Zapier
 
 ## 🎯 Goals of the Project
 
